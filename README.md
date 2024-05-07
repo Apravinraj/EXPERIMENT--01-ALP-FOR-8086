@@ -52,7 +52,7 @@ ret
 ## Subtraction   of 8 bit numbers  ALP 
  ```
 org 100h
-mov AL,83h;
+mov AL,01h;
 mov BL,33h;
 SUB AL,BL;
 HLT
